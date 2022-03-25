@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kitebin-h.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kitebin-h.github.io/archives/64e2e0e2.html</loc>
     
-    <lastmod>2022-03-24</lastmod>
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitebin-h.github.io/archives/4a17b156.html</loc>
+    
+    <lastmod>2022-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,27 +47,9 @@
   </url>
   
   <url>
-    <loc>https://kitebin-h.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-03-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kitebin-h.github.io/tags/index.html</loc>
     
     <lastmod>2022-03-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitebin-h.github.io/archives/4a17b156.html</loc>
-    
-    <lastmod>2022-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

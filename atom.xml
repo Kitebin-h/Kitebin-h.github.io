@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kitebin&#39;s blog</title>
+  <icon>https://kitebin-h.github.io/icon.png</icon>
+  
+  <link href="https://kitebin-h.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://kitebin-h.github.io/"/>
+  <updated>2022-03-25T06:12:36.259Z</updated>
+  <id>https://kitebin-h.github.io/</id>
+  
+  <author>
+    <name>Kitebin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo搭建个人博客</title>
+    <link href="https://kitebin-h.github.io/archives/64e2e0e2.html"/>
+    <id>https://kitebin-h.github.io/archives/64e2e0e2.html</id>
+    <published>2022-03-23T12:23:14.000Z</published>
+    <updated>2022-03-25T06:12:36.259Z</updated>
+    
+    
+    <summary type="html">搭建博客中流程和踩坑记录</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kitebin-h.github.io/archives/4a17b156.html"/>
+    <id>https://kitebin-h.github.io/archives/4a17b156.html</id>
+    <published>2022-02-23T05:23:35.904Z</published>
+    <updated>2022-03-25T06:12:36.258Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
